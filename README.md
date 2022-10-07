@@ -8,3 +8,6 @@ I'm Android Developer
 ![](https://freelancehunt.com/shields/display/id/413225/type/rating?style=for-the-badge&amp;lang=en)
 ![](https://freelancehunt.com/shields/display/id/413225/type/reviews?style=for-the-badge&amp;lang=en&amp;showName=1)
 ![](https://freelancehunt.com/shields/display/id/413225/type/mainskillone?style=for-the-badge&amp;lang=en)
+
+### CodeWard:
+![](https://www.codewars.com/users/OVOSKOP/badges/large)
